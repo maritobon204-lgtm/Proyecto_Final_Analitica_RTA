@@ -14,4 +14,4 @@ Análisis del dataset de accidentes de tránsito (Kaggle – Ethiopian RTA) medi
 - [Nombres de tus compañeros]
 
 ## Enlaces
-- 📊 [Google Colab Notebook](https://colab.research.google.com/) (pega aquí tu link de Colab si también lo compartes)
+- 📊 [Google Colab Notebook][(https://colab.research.google.com/) (pega aquí tu link de Colab si también lo compartes)](https://colab.research.google.com/drive/1UyauiwFeMvQlmBQsUwyHeA8xTscCL9Kh?usp=sharing)]
